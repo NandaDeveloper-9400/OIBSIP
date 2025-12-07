@@ -1,5 +1,5 @@
 # OIBSIP
-Internship Projects for Oasis Infobyte Python Programming Internship
+Internship Projects for Oasis Infobyte Python Programming Internship.
 
 #Projects
 - Password Generator
